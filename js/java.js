@@ -39,8 +39,8 @@ while (count <= 5){
 }
 */
 
-
+/*
 for(count=1; count<=6; count++){
     alert(count);
 }
-
+*/
